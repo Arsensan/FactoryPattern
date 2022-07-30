@@ -1,6 +1,6 @@
 public enum CoffeeType {
     ESPRESSO,
     AMERICANO,
-    CAFFE_LATE,
+    CAFFE_LATTE,
     CAPPUCCINO
 }
